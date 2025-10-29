@@ -40,4 +40,4 @@ Each project includes code, data, and an accompanying SSRN research paper.
 ## 📚 Profiles
 - **SSRN:** [View My Papers](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=YOUR_ID)
 - **Google Scholar:** [View My Profile](https://scholar.google.com/)
-- **LinkedIn:** [LinkedIn Profile]([(https://www.linkedin.com/in/ekantheswar/)])
+- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/ekantheswar)
